@@ -1,6 +1,6 @@
 # Akira's Gentoo Linux Overlay
 My personal Gentoo overlay currently consisting of working out of the box:
-- BloodHound-4.3
+- BloodHound-4.3.1 (dep. neo4j-community-4.4.0)
   ```
   emerge --ask www-apps/BloodHound::akira
   ```
