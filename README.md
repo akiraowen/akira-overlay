@@ -11,4 +11,7 @@ emaint sync --repo akira
 - BloodHound-4.3.1 (dep. neo4j-community-4.4.0)
   ```
   emerge --ask www-apps/BloodHound::akira
+  eselect java-vm set openjdk-bin-11
+  neo4j console
+  BloodHound --no-sandbox
   ```
