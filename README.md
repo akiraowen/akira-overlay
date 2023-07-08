@@ -15,3 +15,9 @@ emaint sync --repo akira
   neo4j console
   BloodHound --no-sandbox
   ```
+- evil-winrm-3.5 (broken dep. see gem install)
+  ```
+  emerge --ask evil-winrm::akira
+  gem install winrm-fs
+  evil-winrm
+  ```
