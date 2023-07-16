@@ -50,7 +50,7 @@ media-fonts/noto
 media-fonts/noto-cjk
 media-fonts/noto-emoji
 media-video/vlc
-net-analyzer/evil-winrm::akira
+net-analyzer/evil-winrm:akira
 net-analyzer/ffuf
 net-analyzer/hydra
 net-analyzer/iftop
@@ -100,7 +100,7 @@ sys-libs/zlib
 sys-process/cronie
 virtual/imagemagick-tools
 virtual/jdk
-www-apps/BloodHound::akira
+www-apps/BloodHound:akira
 www-client/brave-bin
 www-client/firefox-bin
 www-client/google-chrome
