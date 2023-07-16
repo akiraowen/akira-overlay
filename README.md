@@ -19,5 +19,6 @@ emaint sync --repo akira
   ```
   emerge --ask evil-winrm::akira
   gem install winrm-fs
+  <update /etc/ssl/openssl.cnf, see issue #1>
   evil-winrm
   ```
